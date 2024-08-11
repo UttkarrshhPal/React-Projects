@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.component1{
+  height: 100px;
+  width: 100px;
+  background-color: rosybrown;
+}
